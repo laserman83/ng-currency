@@ -45,7 +45,7 @@ You may see it in action and play a lot using [plunker](http://plnkr.co/edit/u9m
 >
 ``` html
 <script src="https://code.angularjs.org/1.3.4/angular.js"></script>
-<script src="https://rawgit.com/aguirrel/ng-currency/master/src/ng-currency.js"></script>
+<script src="https://rawgit.com/laserman83/ng-currency/master/src/ng-currency.js"></script>
 ```
 
 + Inject the `ngCurrency` module into your app:
@@ -107,10 +107,12 @@ Please submit all pull requests the against master branch. If your unit test con
 
 ## Authors
 
-**Luis Aguirre**
+**Luis Aguirre** (parent version)
+**David Carvalho** (forked version)
 
 + http://alaguirre.com
-+ http://github.com/aguirrel
++ + http://github.com/aguirrel
++ http://github.com/laserman
 
 ## Copyright and license
 
